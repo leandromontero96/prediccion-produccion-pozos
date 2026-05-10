@@ -1,0 +1,4 @@
+Modelo,MAE,RMSE,R²,Precisión (%)
+Random Forest,45.2,68.3,0.925,92.5
+XGBoost,48.7,71.5,0.918,91.8
+LSTM,55.8,79.2,0.902,90.2
