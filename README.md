@@ -213,4 +213,3 @@ prediccion-produccion-pozos/
 Data Analyst | Oil & Gas Analytics
 📧 tuemail@example.com
 💼 [LinkedIn]([https://www.linkedin.com/in/ad-leandro-m/)
-🐙 [GitHub](https://github.com/tu-usuario)
