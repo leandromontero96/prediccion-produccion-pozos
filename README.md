@@ -209,20 +209,8 @@ prediccion-produccion-pozos/
 
 ## 👨‍💻 Autor
 
-**[Tu Nombre]**
+**[Leandro Montero]**
 Data Analyst | Oil & Gas Analytics
 📧 tuemail@example.com
-💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
+💼 [LinkedIn]([https://www.linkedin.com/in/ad-leandro-m/)
 🐙 [GitHub](https://github.com/tu-usuario)
-
-## 📄 Licencia
-
-MIT License - Proyecto de portafolio educativo
-
----
-
-⭐ **Si este proyecto te resulta útil, dale una estrella en GitHub!**
-
-💬 **¿Preguntas o sugerencias?** Abre un issue o contáctame directamente.
-
-🚀 **¿Listo para implementar ML en tu operación petrolera?** Let's connect!
